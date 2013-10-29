@@ -9,4 +9,4 @@ Douglass Chen, douglawc@usc.edu, Narwhalprime
 
 Lab session: Tues. 9 AM
 
-![Kimono Octocat](octodex.github.com/images/kimonotocat.png)
+![Kimono Octocat](http://www.octodex.github.com/images/kimonotocat.png)
